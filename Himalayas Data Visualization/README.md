@@ -11,7 +11,7 @@ Install Preswald and run the app locally:
 ```bash
 pip install preswald
 preswald run
-
+```
 ## 📊 Features
 
 - **Top Peaks by Country**  
